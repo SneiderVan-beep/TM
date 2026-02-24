@@ -1,0 +1,2 @@
+0 dedos mano derecha
+1 dedos mano izquierda
